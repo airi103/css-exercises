@@ -1,0 +1,7 @@
+.container .text {
+    background-color: oklch(92.32% 0.0839 89.87);
+    color: oklch(67.61% 0.2442 28.46);
+
+    font-size: 20px;
+    text-align: center;
+}
